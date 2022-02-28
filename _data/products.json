@@ -1,0 +1,56 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/posts/haliyikama1.jpg",
+            "alt": "slide1",
+            "href": "assets/images/posts/haliyikama1.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/posts/haliyikama2.jpg",
+            "alt": "slide1",
+            "href": "assets/images/posts/haliyikama2.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/posts/haliyikama5.jpg",
+            "alt": "slide1",
+            "href": "assets/images/posts/haliyikama5.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/posts/koltukyikama1.jpg",
+            "alt": "slide1",
+            "href": "assets/images/posts/koltukyikama1.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/posts/koltukyikama2.jpg",
+            "alt": "slide1",
+            "href": "assets/images/posts/koltukyikama2jpg",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/posts/yatakyikama2.jpg",
+            "alt": "slide1",
+            "href": "assets/images/posts/yatakyikama2.jpg",
+            "target": "blank"
+        }
+        
+        
+       
+    ]
+
+}
