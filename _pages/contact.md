@@ -6,13 +6,13 @@ comments: false
 
 
 <h5>Adres:</h5>
-<div>Tuna Halı Yıkama
+<div>Çelikhan Metal A.Ş
 <br>
-İstasyon Mahallesi 1409 Sokak No:12/B Gebze/Kocaeli</div>
+Mollafenari Köyü Eski Ankara yolu no:26 Gebze/Kocaeli</div>
 <h5>Telefon:</h5>
-<div><a href="tel:+905334042483">0533 404 24 83</a></div>
-<div><a href="tel:+902626422092">0262 642 20 92</a></div>
+<div><a href="tel:+905417954824">0541 795 48 24</a></div>
 <hr>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3016.2601488804994!2d29.494801715410414!3d40.88810797931326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x145ba4362a48d891!2zw4dlbGlraGFuIE1ldGFsIEEuxZ4!5e0!3m2!1str!2str!4v1646040993876!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <!-- <div class="mapouter">
     <div class="gmap_canvas">

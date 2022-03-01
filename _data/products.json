@@ -3,49 +3,81 @@
         {
             "id": 1,
             "name": "isim",
-            "img": "assets/images/posts/haliyikama1.jpg",
+            "img": "assets/images/products/cikma-demir-kapi.jpg",
             "alt": "slide1",
-            "href": "assets/images/posts/haliyikama1.jpg",
+            "href": "",
             "target": "blank"
         },
         {
             "id": 1,
             "name": "isim",
-            "img": "assets/images/posts/haliyikama2.jpg",
+            "img": "assets/images/products/demir-boru.jpg",
             "alt": "slide1",
-            "href": "assets/images/posts/haliyikama2.jpg",
+            "href": "",
             "target": "blank"
         },
         {
             "id": 1,
             "name": "isim",
-            "img": "assets/images/posts/haliyikama5.jpg",
+            "img": "assets/images/products/kutu-profil.jpg",
             "alt": "slide1",
-            "href": "assets/images/posts/haliyikama5.jpg",
+            "href": "",
             "target": "blank"
         },
         {
             "id": 1,
             "name": "isim",
-            "img": "assets/images/posts/koltukyikama1.jpg",
+            "img": "assets/images/products/market-sanyi-raf.jpg",
             "alt": "slide1",
-            "href": "assets/images/posts/koltukyikama1.jpg",
+            "href": "",
             "target": "blank"
         },
         {
             "id": 1,
             "name": "isim",
-            "img": "assets/images/posts/koltukyikama2.jpg",
+            "img": "assets/images/products/orgu-cit.jpg",
             "alt": "slide1",
-            "href": "assets/images/posts/koltukyikama2jpg",
+            "href": "",
             "target": "blank"
         },
         {
             "id": 1,
             "name": "isim",
-            "img": "assets/images/posts/yatakyikama2.jpg",
+            "img": "assets/images/products/panel-cit.jpg",
             "alt": "slide1",
-            "href": "assets/images/posts/yatakyikama2.jpg",
+            "href": "",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/products/paslanmaz-dolap.jpg",
+            "alt": "slide1",
+            "href": "",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/products/sanayi-tipi-paslanmaz-tezgah.jpg",
+            "alt": "slide1",
+            "href": "",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/products/sandvic-sac.jpg",
+            "alt": "slide1",
+            "href": "",
+            "target": "blank"
+        },
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/products/trapez-sac.jpg",
+            "alt": "slide1",
+            "href": "",
             "target": "blank"
         }
         
