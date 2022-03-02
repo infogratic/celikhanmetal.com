@@ -10,23 +10,23 @@ comments: false
         <tbody>
           <tr>
             <td>Hurda Dkp</td>
-            <td>7,10₺</td>
+            <td>7,310₺</td>
           </tr>
           <tr>
             <td>Ekstra</td>
-            <td>6,80₺</td>
+            <td>6,940₺</td>
           </tr>
           <tr>
             <td>1. Grup</td>
-            <td>6,70₺</td>
+            <td>6,900₺</td>
           </tr>
           <tr>
             <td>2. Grup</td>
-            <td>5,90₺</td>
+            <td>6,830₺</td>
           </tr>
           <tr>
             <td>Talaş</td>
-            <td>5,90₺</td>
+            <td>6,030₺</td>
           </tr>
           <tr>
             <td>Soyma Bakır</td>
