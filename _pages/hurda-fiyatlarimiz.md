@@ -8,6 +8,7 @@ comments: false
     <div class="col-12 col-md-4">
       <table class="table table-bordered">
         <tbody>
+        <h3>Hurda Demir</h3>
           <tr>
             <td>Hurda Dkp</td>
             <td>7,310₺</td>
@@ -28,6 +29,13 @@ comments: false
             <td>Talaş</td>
             <td>6,030₺</td>
           </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-12 col-md-4">
+      <table class="table table-bordered">
+      <tbody>
+      <h3> Emtia Hurda</h3>
           <tr>
             <td>Soyma Bakır</td>
             <td>120,00₺</td>
@@ -35,16 +43,6 @@ comments: false
           <tr>
             <td>Sarı</td>
             <td>70,00₺</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="col-12 col-md-4">
-      <table class="table table-bordered">
-      <tbody>      
-          <tr>
-            <td>Kırkambar Sarı</td>
-            <td>110,00₺</td>
           </tr>
         <tr>
           <td>Alüminyum Araiş </td>
@@ -56,7 +54,7 @@ comments: false
         </tr>
         <tr>
           <td>Krom 316</td>
-          <td>15,00₺</td>
+          <td>42,00₺</td>
         </tr>
         <tr>
           <td>Krom 304</td>
@@ -64,7 +62,7 @@ comments: false
         </tr>
         <tr>
           <td>Krom 430</td>
-          <td>200,00₺</td>
+          <td>10,00₺</td>
         </tr>
       </tbody>
     </table>
