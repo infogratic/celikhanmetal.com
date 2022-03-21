@@ -11,23 +11,23 @@ comments: false
         <h3>Hurda Demir</h3>
           <tr>
             <td>Hurda Dkp</td>
-            <td>9,650₺</td>
+            <td>8,850₺</td>
           </tr>
           <tr>
             <td>Ekstra</td>
-            <td>9,480₺</td>
+            <td>8,680₺</td>
           </tr>
           <tr>
             <td>1. Grup</td>
-            <td>9,360₺</td>
+            <td>8,650₺</td>
           </tr>
           <tr>
             <td>2. Grup</td>
-            <td>9,240₺</td>
+            <td>8,420₺</td>
           </tr>
           <tr>
             <td>3. Grup</td>
-            <td>8,200₺</td>
+            <td>7,380₺</td>
           </tr>
           <tr>
             <td>Talaş</td>
