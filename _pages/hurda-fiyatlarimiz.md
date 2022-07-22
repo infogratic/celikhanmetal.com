@@ -11,27 +11,27 @@ comments: false
         <h3>Hurda Demir</h3>
           <tr>
             <td>Hurda Dkp</td>
-            <td>8,850₺</td>
+            <td>5,850₺</td>
           </tr>
           <tr>
             <td>Ekstra</td>
-            <td>8,680₺</td>
+            <td>5,680₺</td>
           </tr>
           <tr>
             <td>1. Grup</td>
-            <td>8,650₺</td>
+            <td>5,00₺</td>
           </tr>
           <tr>
             <td>2. Grup</td>
-            <td>8,420₺</td>
+            <td>4,420₺</td>
           </tr>
           <tr>
             <td>3. Grup</td>
-            <td>7,380₺</td>
+            <td>4,00₺</td>
           </tr>
           <tr>
             <td>Talaş</td>
-            <td>6,030₺</td>
+            <td>3,030₺</td>
           </tr>
         </tbody>
       </table>
@@ -42,31 +42,31 @@ comments: false
       <h3> Emtia Hurda</h3>
           <tr>
             <td>Soyma Bakır</td>
-            <td>120,00₺</td>
+            <td>100,00₺</td>
           </tr>
           <tr>
             <td>Sarı</td>
-            <td>70,00₺</td>
+            <td>50,00₺</td>
           </tr>
         <tr>
           <td>Alüminyum Araiş </td>
-          <td>42,00₺</td>
+          <td>35,00₺</td>
         </tr>
         <tr>
           <td>Alüminyum Boyalı </td>
-          <td>41,00₺</td>
+          <td>31,00₺</td>
         </tr>
         <tr>
           <td>Krom 316</td>
-          <td>42,00₺</td>
+          <td>32,00₺</td>
         </tr>
         <tr>
           <td>Krom 304</td>
-          <td>29,00₺</td>
+          <td>21,00₺</td>
         </tr>
         <tr>
           <td>Krom 430</td>
-          <td>10,00₺</td>
+          <td>8,00₺</td>
         </tr>
       </tbody>
     </table>
